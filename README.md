@@ -45,6 +45,4 @@ stock closing price (gray line)
 Buy signals (green arrows)
 sell signals (red arrows)
 
-Disclaimer
-This project is for educational purposes only. 
-It does not constitute financial advice. Backtest and validate before applying to real trades.
+
